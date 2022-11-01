@@ -4,6 +4,8 @@ This benchmark measured computation of complex computed reactive unit when it de
 
 ### Apple m1
 
+![Results Chart](https://github.com/art-bazhin/reactive-computed-bench/blob/chart-readme/chart.svg?raw=true)
+
 #### Median of computers creation and linking from 5 iterations
 (UNSTABLE)
 
